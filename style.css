@@ -1,0 +1,6 @@
+body{ text-align:center; Background-color:cornsilk; } #heading{ font-size:80px; font-variant:small-caps; word-spacing:20px; } p{ color:red; font-style:italic; font-size:20px;color:black; }
+h1{
+    font-size: 100px;
+    font-family: 'Updock', cursive;
+}
+img{ width:500px; height:450px; border-style:solid; padding:5px; border-color:indigo; border-radius:80px;}
